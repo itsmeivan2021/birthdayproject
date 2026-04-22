@@ -502,7 +502,7 @@ export default function BirthdayGreetingWeb() {
                   }}
                   className="rounded-2xl bg-pink-500 px-6 py-3 font-bold text-white shadow-lg transition-transform hover:scale-105"
                 >
-                  Pencent 100x 🎊
+                  Pencet 100x 🎊
                 </button>
                 <button
                   onClick={(e) => {
