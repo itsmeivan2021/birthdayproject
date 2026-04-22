@@ -32,7 +32,7 @@ const PHOTO_SLIDES = [
   "/foto-3.jpeg",
   "/foto-4.jpeg",
   "/foto-5.jpeg",
-  "/foto-6.png",
+  "/foto-6.jpeg"
 ];
 
 const SPECIAL_MOMENTS: string[] = [
