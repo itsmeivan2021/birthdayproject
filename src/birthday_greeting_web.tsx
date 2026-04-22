@@ -287,9 +287,6 @@ export default function BirthdayGreetingWeb() {
         <main className="min-h-[65vh] rounded-[2rem] border border-white/80 bg-white/55 p-5 shadow-2xl backdrop-blur-xl sm:p-8 md:p-10">
           {/* NOTE: Audio file must be placed in public folder */}
           {audioFailed && (
-            <div className="mb-6 rounded-2xl border border-amber-200 bg-amber-50 px-4 py-3 text-sm text-amber-900 text-center">
-              Lagu belum bisa dimuat dari sumber sekarang.
-            </div>
           )}
           {audioStartedMuted && !audioUnlocked && !audioFailed && (
             <div className="mb-6 rounded-2xl border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-sky-900">
